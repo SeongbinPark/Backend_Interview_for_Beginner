@@ -1,3 +1,19 @@
+나의 기록
+
+[Java]
+220913
+[Spring & JPA]
+
+Database
+
+Network
+
+Operating System
+
+Algorithm & SQL
+
+
+
 
 <div align="center">
     <img src="./image/thumb.jpg" width="60%"></img>
